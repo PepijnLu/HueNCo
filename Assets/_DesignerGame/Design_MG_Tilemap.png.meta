@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: a49f693c25218524d9c0a1b92a02a48a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ccacbe75ba446449fb2612b10147bd
+      internalID: 1635911552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1597e7cc295786479470169b965d72f
+      internalID: -1412937302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4797cfed546b84ca83b67cedc995a5
+      internalID: 691107501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c843648edcb62848a26219f638a3a0b
+      internalID: 1638746889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9f84f602c0a74ba6abf4e45afeb2d
+      internalID: -1228526237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedc777799c5bc48adec4d06c6a1ee0
+      internalID: 477173117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e5ce2e7caca8478f2f694f73c690b
+      internalID: -588573327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60747c8cce3212c4e9a91a152b227611
+      internalID: 1206384870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ca9a4770683645b977b00ee01bbbc
+      internalID: 279752793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df568a989a4c94143aee75c03c7d4a56
+      internalID: -1246327500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bbcccaa05311c49b4e2db9d2ca8657
+      internalID: -997597269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729edab0e1d11f1428196e7a3f3940b2
+      internalID: -1574348620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4757a86a7b46249a5507b5582a7182
+      internalID: 1867335310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbbb8863c604048a91252d86046707
+      internalID: 497746226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc02136646bc36449ae51a3675443df
+      internalID: 1535873639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bdd33fe7b17944d8ac65161927d7a2
+      internalID: -457933499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e433ce4f383f4aa8311ae32530499
+      internalID: -1595791052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5043ab4678db7b43aa7505c6fa9a702
+      internalID: -1964306805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ef1285a7fbc9458ce2e046d2e1cc3
+      internalID: -1028012555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052a9163f9d1f44ca01213ea132cc7b
+      internalID: 744255827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d69472d8c1ea479e5d0bf1471e82f
+      internalID: -605645914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ecb665cd8d7fb4888e6c809c6e5d6e
+      internalID: 6152152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99848d2eaff3645bc27e7284681ebb
+      internalID: 911253396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e913e701d7612c49b5e50990aae9649
+      internalID: -2044442050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2004cf865de6440a76bdda4a99c22c
+      internalID: -559086643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31401f92a214d548aa6b5efcf815e20
+      internalID: 158070679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8635b15af0f13a4f9c2019aa8c0c286
+      internalID: -922653103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507f5862b475e847b5628bceb3106a6
+      internalID: -95691253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4ba9393f041f4ca3f4ef36c1b17c4
+      internalID: -2044738733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a780f9ef362e4c9e8f3c4fbca0097
+      internalID: -34372878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b790c781e855d4f9b690b5ce32682f
+      internalID: -1987715123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643f5e1861abe34f91b5d184db438f9
+      internalID: -234350090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664de32b2a679d428f7254127344c0d
+      internalID: -831203953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585a3bbb7da582d4a822339d93c0b2a2
+      internalID: 559567421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5836f87d366346bb2767d84a0c316
+      internalID: -678008010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194fdba65e2c8a140bb81716ef31f248
+      internalID: -529131594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ab23acefb9aa048a633e34ab67d623
+      internalID: -1362063787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac549dc01fdbd4e9eb895401e1b9b0
+      internalID: -479253068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df4bd69630d084baf150af2cf0fd87
+      internalID: -451470402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed476cc9d0710874abcc9a14cca75793
+      internalID: 1089365053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9026eee8a0364aaeea434221fc91e
+      internalID: -1261963484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3941f11d0ddb4e90a1f5b196313b7
+      internalID: 1396233859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1adefee9a193049b11adfc349421b6
+      internalID: 897215283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a5976baf98f3459724d971a070058
+      internalID: -379014694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232f2c7361868343a1f2a77e153972d
+      internalID: -1052341348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4f949fe8e8fc49bdd9ea3eddfa024
+      internalID: 1813424715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9f7a455ed2f045a00ae4668598c9c
+      internalID: -403826095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef7cd8c8fcd6404fb4125d4a7a5b3f6
+      internalID: 901416825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9aeb98957f48a4499c19bcf8d77e56
+      internalID: -1222305696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f05143f31f4a4d946ed4518390c84
+      internalID: 514631601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488ed0e854a2ff4295aabe0f400c868
+      internalID: 248638224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9eaac7201b0d42a9596c75748f7e0
+      internalID: 1187589826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf4a0f871fa0a4b8299b25e630e8e3
+      internalID: -2105064057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1553699551bf645a6db924d91fa57b
+      internalID: -475645399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13f72bd69aee645838b8d78744cb76
+      internalID: 224858235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84204f6f9640f44b9e1a8d6425653f9
+      internalID: 1581159080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001315c3d91a164d868b3ba712dc723
+      internalID: 854884453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24416c2a7567cc4dba0dbc1299caeb4
+      internalID: -184928914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32091c5bb05a8fb4da29887b8af4a13e
+      internalID: -1391965547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123c36ac07984845819a217b9c97c33
+      internalID: -1478331780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5b835998129a48acc4575c3d2dd2d
+      internalID: 576238777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4822a4e400f845a5f7558dffe9afc
+      internalID: 926101501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26edb8d23f88bd4a821fc8b224109ca
+      internalID: -1199055836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479ccaeb680e49498b88a99e89a3a2d
+      internalID: -1457731628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3c035cb4910e4eb811cf73b06bd61
+      internalID: 1095084393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46de4d4419492442acf34fe2bb18d11
+      internalID: -2118456246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620c72ab6ee2454f9ee7277b76c8d05
+      internalID: -1336142630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607beac6848bd524a83752b073863512
+      internalID: 1734329795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ba5a2fa9972f4b9074c0a7771682f
+      internalID: -1350086423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604fdcbb22b4669479eda7d36a20498f
+      internalID: -875054647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b0e2f0e3a8864395a0e97787dc330
+      internalID: 304374534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd433fa0885270c45bb278495f6b8ae0
+      internalID: 1023434520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73e11d58c525b48bd3c650623a2c4a
+      internalID: -2052293588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef0ef360b82a04588482746eed0c30
+      internalID: -730770006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf2c3d22150504ebdb0686299b5d0a
+      internalID: 1223289304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456b8e5b017fd5488d16089ccc3d3a3
+      internalID: 239557120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c608332c9240b743a44a0104b6f0118
+      internalID: -81154294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6907361b81583409e527d4cf7130b6
+      internalID: -90789756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fde7bd302769b49a71db6211a7ad65
+      internalID: 164583804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0643c7c4187f4ea2e5f7729dc7bb9
+      internalID: 381829559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725497ca3ca8be49aa57d2b46111e67
+      internalID: -1866767161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a41a041178824ebf3089cf1350797
+      internalID: -1511968878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24223276552e914f8cec0114017838c
+      internalID: 98437542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414df3f1403f5f458c22c0a1e559990
+      internalID: 1904163168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3637733e75594689df5e78ade9f69
+      internalID: -1306503400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875aeeec4463b747b1e3ec0b01910d5
+      internalID: -1927754996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecab887400ae24ea077b7c6db026ca
+      internalID: 713416957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50604ecef18574b8923546f8eb9715
+      internalID: -1754445036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920a44adbbfa95b47a3b608ad3cbf9ff
+      internalID: 1147655552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d52d951efbbd84290c602657708c28
+      internalID: -1663368597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188af7e95bede94d872344dc1c912f2
+      internalID: -807740872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648bce8a26cf0254f96abcf98c1fa004
+      internalID: 1364480335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c541f8e44963b4581bb857f46f0e1c
+      internalID: 464850223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9c3ccfcee7dc40acb6fa1fb0c47c7
+      internalID: -352555704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a487a8b7a1d59c6469655ccd54c035e5
+      internalID: -436846125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_MG_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa56fe5175cff498c8b732681d4a26
+      internalID: -151119116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Design_MG_Tilemap_0: 1635911552
+      Design_MG_Tilemap_1: -1412937302
+      Design_MG_Tilemap_10: -997597269
+      Design_MG_Tilemap_11: -1574348620
+      Design_MG_Tilemap_12: 1867335310
+      Design_MG_Tilemap_13: 497746226
+      Design_MG_Tilemap_14: 1535873639
+      Design_MG_Tilemap_15: -457933499
+      Design_MG_Tilemap_16: -1595791052
+      Design_MG_Tilemap_17: -1964306805
+      Design_MG_Tilemap_18: -1028012555
+      Design_MG_Tilemap_19: 744255827
+      Design_MG_Tilemap_2: 691107501
+      Design_MG_Tilemap_20: -605645914
+      Design_MG_Tilemap_21: 6152152
+      Design_MG_Tilemap_22: 911253396
+      Design_MG_Tilemap_23: -2044442050
+      Design_MG_Tilemap_24: -559086643
+      Design_MG_Tilemap_25: 158070679
+      Design_MG_Tilemap_26: -922653103
+      Design_MG_Tilemap_27: -95691253
+      Design_MG_Tilemap_28: -2044738733
+      Design_MG_Tilemap_29: -34372878
+      Design_MG_Tilemap_3: 1638746889
+      Design_MG_Tilemap_30: -1987715123
+      Design_MG_Tilemap_31: -234350090
+      Design_MG_Tilemap_32: -831203953
+      Design_MG_Tilemap_33: 559567421
+      Design_MG_Tilemap_34: -678008010
+      Design_MG_Tilemap_35: -529131594
+      Design_MG_Tilemap_36: -1362063787
+      Design_MG_Tilemap_37: -479253068
+      Design_MG_Tilemap_38: -451470402
+      Design_MG_Tilemap_39: 1089365053
+      Design_MG_Tilemap_4: -1228526237
+      Design_MG_Tilemap_40: -1261963484
+      Design_MG_Tilemap_41: 1396233859
+      Design_MG_Tilemap_42: 897215283
+      Design_MG_Tilemap_43: -379014694
+      Design_MG_Tilemap_44: -1052341348
+      Design_MG_Tilemap_45: 1813424715
+      Design_MG_Tilemap_46: -403826095
+      Design_MG_Tilemap_47: 901416825
+      Design_MG_Tilemap_48: -1222305696
+      Design_MG_Tilemap_49: 514631601
+      Design_MG_Tilemap_5: 477173117
+      Design_MG_Tilemap_50: 248638224
+      Design_MG_Tilemap_51: 1187589826
+      Design_MG_Tilemap_52: -2105064057
+      Design_MG_Tilemap_53: -475645399
+      Design_MG_Tilemap_54: 224858235
+      Design_MG_Tilemap_55: 1581159080
+      Design_MG_Tilemap_56: 854884453
+      Design_MG_Tilemap_57: -184928914
+      Design_MG_Tilemap_58: -1391965547
+      Design_MG_Tilemap_59: -1478331780
+      Design_MG_Tilemap_6: -588573327
+      Design_MG_Tilemap_60: 576238777
+      Design_MG_Tilemap_61: 926101501
+      Design_MG_Tilemap_62: -1199055836
+      Design_MG_Tilemap_63: -1457731628
+      Design_MG_Tilemap_64: 1095084393
+      Design_MG_Tilemap_65: -2118456246
+      Design_MG_Tilemap_66: -1336142630
+      Design_MG_Tilemap_67: 1734329795
+      Design_MG_Tilemap_68: -1350086423
+      Design_MG_Tilemap_69: -875054647
+      Design_MG_Tilemap_7: 1206384870
+      Design_MG_Tilemap_70: 304374534
+      Design_MG_Tilemap_71: 1023434520
+      Design_MG_Tilemap_72: -2052293588
+      Design_MG_Tilemap_73: -730770006
+      Design_MG_Tilemap_74: 1223289304
+      Design_MG_Tilemap_75: 239557120
+      Design_MG_Tilemap_76: -81154294
+      Design_MG_Tilemap_77: -90789756
+      Design_MG_Tilemap_78: 164583804
+      Design_MG_Tilemap_79: 381829559
+      Design_MG_Tilemap_8: 279752793
+      Design_MG_Tilemap_80: -1866767161
+      Design_MG_Tilemap_81: -1511968878
+      Design_MG_Tilemap_82: 98437542
+      Design_MG_Tilemap_83: 1904163168
+      Design_MG_Tilemap_84: -1306503400
+      Design_MG_Tilemap_85: -1927754996
+      Design_MG_Tilemap_86: 713416957
+      Design_MG_Tilemap_87: -1754445036
+      Design_MG_Tilemap_88: 1147655552
+      Design_MG_Tilemap_89: -1663368597
+      Design_MG_Tilemap_9: -1246327500
+      Design_MG_Tilemap_90: -807740872
+      Design_MG_Tilemap_91: 1364480335
+      Design_MG_Tilemap_92: 464850223
+      Design_MG_Tilemap_93: -352555704
+      Design_MG_Tilemap_94: -436846125
+      Design_MG_Tilemap_95: -151119116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
